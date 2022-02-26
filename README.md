@@ -1,5 +1,5 @@
 ### Hi there, I'm Diego Biagini.
-#### I'm currently a graduate student in the university of Bologna, Italy, where I'm studying for a Master Degree in Artificial Intelligence.
+#### I'm currently a graduate student at the university of Bologna, Italy, where I'm studying for a Master Degree in Artificial Intelligence.
 #### I graduated from the University of Florence with a bachelor degree in Computer Engineering.
 
 My interests are anything and everything which deals with AI, but in particular Deep Learning, Natural Language Processing and Generative Models.
